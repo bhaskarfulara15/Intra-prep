@@ -1,0 +1,12 @@
+{
+  "name": "ai-interview-preparation-platform",
+  "version": "1.0.0",
+  "description": "Full-Stack AI Interview Preparation Platform for College Students and Job Seekers",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "init-db": "npm run init-db --prefix server"
+  },
+  "devDependencies": {}
+}
